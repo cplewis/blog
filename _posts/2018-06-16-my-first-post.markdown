@@ -9,7 +9,7 @@ published: true
 
 Nice! Your first post!
 
-Logout https://ms3-inc.okta.com/login/signout
+[Logout](https://ms3-inc.okta.com/login/signout)
 
 Jekyll also offers powerful support for code snippets:
 
