@@ -13,6 +13,8 @@ Nice! Your first post!
 
 [Box](https://ms3-inc.okta.com/home/boxnet/0oa2kmbwISbOjYp1z355/72)
 
+[HY Visitor Manual](https://app.box.com/file/298838711453)
+
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
