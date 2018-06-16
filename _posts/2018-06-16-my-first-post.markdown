@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title: Hello!!
+date: '2018-06-16 13:14:30 +0000'
+categories: jekyll update
+published: true
 ---
 ## A New Post
 
